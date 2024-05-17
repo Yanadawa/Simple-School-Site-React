@@ -1,0 +1,19 @@
+.caroban {
+    background-color: #212529;
+}
+
+.caro {
+    height: auto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: 100%;
+}
+
+.caro2 {
+    max-height: 80%;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
